@@ -1,0 +1,52 @@
+*.gariskotak {
+  width: 30;
+}
+
+.welcome {
+  margin-left: 50px;
+  
+}
+
+.header {
+  margin-top: 2px;
+  margin-left: 10px;
+}
+
+.ratakanan {
+  text-align: right;
+  font-size: 19px;
+  margin-right: 10px;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+.kepala {
+  display: flex;
+  gap: 10px 100px;
+  justify-content: space-around;
+}
+
+.profiltop {
+  font-size: 19px;
+}
+
+.body {
+  background-color:rgb(223, 211, 230);
+}
+
+.paragraf {
+  
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.bawah {
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  margin-left: 10px;
+  margin-right: 10px;
+}
